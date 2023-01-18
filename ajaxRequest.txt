@@ -1,0 +1,5 @@
+http://172.16.32.4:81/api/BilletInput/GetBilletInputs/?username=6272&password=sj6272&startDate=1401/10/22&endDate=1401/10/22
+
+
+http://81.12.5.107:81/api/BilletInput/GetBilletInputs/?username=6272&password=sj6272&startDate=1401/10/22&endDate=1401/10/22
+
